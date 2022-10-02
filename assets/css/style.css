@@ -109,3 +109,18 @@ animation-fill-mode: forwards;
     padding-left: 25px;
 
 }
+
+/* Ethos */
+
+#ethos {
+    height: 500px;
+}
+
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+
