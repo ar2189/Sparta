@@ -145,6 +145,28 @@ hr {
 
 .right-about {
     padding-top: 25px;
-    width: 65%;
+    width: 55%;
     float: right;
+}
+
+/* Gallery */
+
+.fotos {
+    clear: both;
+    line-height: 0;
+    column-count:1;
+    column-gap: 10;
+}
+
+.cover-text-1 {
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    top: 70px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.cover-text-1 h4 {
+    color: #fff;
 }
