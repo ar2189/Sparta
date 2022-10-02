@@ -123,4 +123,28 @@ animation-fill-mode: forwards;
     font-weight: lighter;
 }
 
+.left-about {
+    padding-top: 25px;
+    width: 35%;
+    float: left;
+}
 
+hr {
+    border-top: 2px solid #2f4f4f;
+    width: 100%;
+    margin: 5px;
+}
+
+.left-about-heading {
+    width: 60%;
+    float: right;
+    line-height: 25px;
+    clear: both;
+    margin-bottom: 40px;
+}
+
+.right-about {
+    padding-top: 25px;
+    width: 65%;
+    float: right;
+}
