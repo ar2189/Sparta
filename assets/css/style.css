@@ -51,3 +51,61 @@ h1, h2 {
 #menu a:hover {
     border-bottom: 2px solid #2f4f4f;
 }
+
+/* Hero image and cover text */
+
+#hero-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#cover-text {
+    color: #fff;
+}
+
+#cover-text h2 {
+    color: #fff;
+}
+
+#hero-image {
+    background: url("../images/hero-image.jpg") no-repeat center center;
+    width: 100%;
+    height: 650px;
+
+    /* Animation zoom effect on loading page */
+animation-name: hero-zoom;
+animation-duration: 6s;
+animation-fill-mode: forwards;
+}
+
+/* Create level of zoomfor hero image */
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
+#cover-text {
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    background-color: rgba(59, 43, 59, 0.6);
+    
+    top: 30px;
+    right: 170px;
+
+    position: absolute;
+
+    width: 200px;
+    height: 120px;
+
+    padding-top: 30px;
+    padding-left: 25px;
+
+}
