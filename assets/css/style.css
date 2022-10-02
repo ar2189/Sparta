@@ -1,1 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Lato:wght@300&family=Noto+Sans+Mono:wght@500&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Lato, sans-serif;
+    font-weight: 350;
+    color: #3a3a3a;
+}
