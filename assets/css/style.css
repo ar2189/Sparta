@@ -10,3 +10,44 @@ body {
     font-weight: 350;
     color: #3a3a3a;
 }
+
+/* Heading and logos */
+
+h1, h2 {
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #2f4f4f;
+}
+
+#logo {
+    float: left;
+    font-size: 400%;
+    margin-left: 20px;
+}
+
+/* Navigation links */
+
+#menu {
+    font-size: 150%;
+    letter-spacing: 1px;
+}
+
+#menu, #logo {
+    line-height: 100%;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 45px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid #2f4f4f;
+}
