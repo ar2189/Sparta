@@ -11,6 +11,7 @@ body {
     color: #3a3a3a;
 }
 
+
 /* Heading and logos */
 
 h1, h2 {
@@ -114,6 +115,7 @@ animation-fill-mode: forwards;
 
 #ethos {
     height: 500px;
+    background-color: rgb(19, 142, 161);
 }
 
 #welcome {
@@ -155,7 +157,7 @@ hr {
     clear: both;
     line-height: 0;
     column-count:3;
-    column-gap: 4;
+    column-gap: 3;
 }
 
 .fotos h4 {
