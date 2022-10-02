@@ -19,7 +19,7 @@
         <nav id="menu">
             <ul>
                 <li>
-                    <a href="sign-up">Sign Up</a>
+                    <a href="subscribe">Sign Up</a>
                 </li>
                 <li>
                     <a href="#contact">Contact</a>
@@ -68,10 +68,10 @@
     <br>
     <section id="contact">
         <h2>Contact Us</h2>
-        <div>
-            <h3>Open times</h3>
+        <div class="contact-box-left">
+            <h3 class="text-center">Open times</h3>
         </div>
-        <table>
+        <table class="center">
             <tr>
                 <th></th>
                 <th>Open</th>
@@ -93,21 +93,39 @@
                 <td>01:00</td>
             </tr>
         </table>
-        <div>
+        <div class="contact-box">
             <div>
                 <h3>Get in Touch</h3>
             </div>
 
             <span>Phone:</span>
             <span>012 345 678 910</span>
+            <br>
+            <span>E-mail Address:</span>
             <span>email@sparta.com</span>
         </div>
 
-        <div>
+        <div class="contact-box-address">
             <h3>Address</h3>
             <p>Sparta,<br>21 Spartan Street,<br>Aachen, Germany</p>
         </div>
     </section>
+
+    <section class="form-section">
+        <form method="POST" action="" class="signup-form">
+            <h2>Sign Up</h2>
+            <label for="fname">First Name</label>
+            <input class="text-input" id="fname" name="first_name" type="text" required>
+            <label for="lname">Last Name</label>
+            <input class="text-input" id="lname" name="last_name" type="text" required>
+            <label for="email">Email Address</label>
+            <input class="text-input" id="email" name="email_address" type="text" required>
+
+            <input class="click-button" type="submit" value="Subscribe">
+
+        </form>
+    </section> 
+
     <footer>
         <ul class="social-networks">
             <li>
@@ -127,6 +145,7 @@
                 aria-label="Visit our Youtube page" (opens in a new tab)><i class="fa-brands fa-square-youtube"></i></a>
             </li>
         </ul>
+        <br><br>
     </footer>
 
     <!-- font awsome script-->

@@ -169,3 +169,113 @@ hr {
     padding-top: 20px;
     padding-left: 15px;
 }
+
+/* Contact section*/
+
+#contact h2 {
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+    margin: 2% 0 1% 0;
+    padding: 5px;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: 1px;
+}
+
+.contact-box {
+    text-align: center;
+    margin: 2% 0 1% 0;
+    padding: 5px;
+}
+
+.contact-box-address {
+    text-align: center;
+    margin: 2% 0 1% 0;
+    padding: 5px;
+}
+
+/* Form*/
+
+.form-section {
+    clear: left;
+    background: url("../images/signup.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+
+.signup-form {
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
+
+.signup-form h2 {
+    color: #fafafa;
+    margin-bottom: 15px;
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin:5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+.click-button {
+    display: block;
+    margin-top: 15px;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 100%;
+    background: transparent;
+    color: #fafafa;
+}
+
+.click-button:hover {
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+}
+
+/* Footer */
+
+footer {
+    height: 100px;
+    width: 100%;
+    padding: 1px;
+    position: fixed;
+    display: blocked;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+}
+.social-networks i {
+    font-size: 180%;
+    margin: 2% 0 1% 0;
+    padding: 3%;
+    color: #3a3a3a;
+}
