@@ -343,6 +343,8 @@ footer {
         width: 100%;
         clear: both;
     }
+
+
 }
 
 /* For medium screen sizes from 950px wide and down*/
@@ -359,4 +361,9 @@ footer {
         padding-right: 90px;
     }
 
+    #cover-text {
+        left: 0;
+    }
+
+   
 }
