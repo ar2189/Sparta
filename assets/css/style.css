@@ -323,9 +323,9 @@ footer {
     }
 
     #right-about {
-        width: 95%;
+        width: 90%;
         float: left;
-        padding-left: 30px;
+        padding-left: 5%;
     }
 
     hr {
@@ -340,13 +340,14 @@ footer {
     }
 }
 
-/* For media screen sizes from 950px and down */
+/* For medium screen sizes from 950px wide and down*/
 @media screen and (max-width: 950px) {
+
     #menu {
         clear: left;
         float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
+        margin-left: 25px;
+        margin-bottom: 15px;
         line-height: 20px;
     }
 }
