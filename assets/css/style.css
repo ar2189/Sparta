@@ -118,7 +118,7 @@ animation-fill-mode: forwards;
 
 #ethos {
     height: 500px;
-    background-color: rgb(19, 142, 161);
+    background-color: rgba(8, 86, 159, 0.4);
 }
 
 #welcome {
@@ -305,7 +305,7 @@ footer {
 /* For larger to medium sizes from 1200px and down */
 @media  screen and (max-width: 1200px) {
     #ethos {
-        width: 100%;
+        width: 70%;
         height: 1200px;
         margin: 0 auto;
     }
@@ -316,16 +316,16 @@ footer {
     }
 
     #left-about {
-        width: 70%;
+        width: 90%;
         float: left;
         padding: 0;
 
     }
 
     #right-about {
-        width: 90%;
+        width: 100%;
         float: left;
-        padding-left: 5%;
+        padding-left: 20%;
     }
 
     hr {
@@ -338,16 +338,25 @@ footer {
         clear: both;
         padding: 0;
     }
+
+    .fotos > img {
+        width: 100%;
+        clear: both;
+    }
 }
 
 /* For medium screen sizes from 950px wide and down*/
 @media screen and (max-width: 950px) {
 
+
     #menu {
         clear: left;
         float: left;
-        margin-left: 25px;
+        margin-left: 50px;
+        margin-right: 70px;
         margin-bottom: 15px;
-        line-height: 20px;
+        line-height: 25px;
+        padding-right: 90px;
     }
+
 }
