@@ -42,6 +42,7 @@ h1, h2 {
     float: right;
     list-style-type: none;
     margin-right: 45px;
+    padding-top: 20px;
 }
 
 #menu a {
@@ -51,6 +52,8 @@ h1, h2 {
 
 #menu a:hover {
     border-bottom: 2px solid #2f4f4f;
+    color: rgba(147, 4, 147, 0.4);
+    font-weight: bolder;
 }
 
 /* Hero image and cover text */
