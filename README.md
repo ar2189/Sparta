@@ -1,5 +1,3 @@
 # Sparta
 
-![Screen][def]
-
-[def]: screen.png
+![Screen](screen.png)
