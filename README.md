@@ -79,5 +79,25 @@ Users can find the information they need to learn about Sparta, the courses they
 <h3>Validator Testing</h3>
 <ul>
 <li>I tested the HTML validator and it showed error on the social media icons. I tested the icons and they work as you can go to their sites<li>
-<li>
+<li>I tested the CSS validator and it gave me two errors. Resloved those errors.
+
+
+</ul>
+
+<h3>Deployment</h3>
+<p>The site was deployed to the GitHub pages. The steps were as follows:</p>
+<ul>
+<li>In the GitHub repository, navigate to Settings.</li>
+<li>Choose <strong>Pages</strong>.</li>
+<li>From there scroll down to Branch, select the branch <strong>main</strong> and save.</li>
+<li>Refresh the page and your link will be provided.</li>
+</ul>
+<p>The live link can also be found here: https://ar2189.github.io/Sparta/</p>
+
+<h3>Credit</h3>
+
+<h4>Content</h4>
+<ul>
+<li>The code to make the main image and sign up form were taken from Love running.</li>
+<li>The images were taken from Pexels and Pixabay.
 </ul>
