@@ -42,7 +42,27 @@ Users can find the information they need to learn about Sparta, the courses they
 </ul>
 
 <h4>Sign up form</h4>
-![signup](https://user-images.githubusercontent.com/112749480/194217931-fd3a9465-a6a1-43c2-ae42-48ae423abb52.png)
+![signup](https://user-images.githubusercontent.com/112749480/194263413-6db464b3-459a-4832-be08-057ba50e4a78.png)
+<ul>
+<li>The sign up section has a form to collect the user's information.</li>
+<li>The user can fill in his first and last name, and also his email address.</li>
+<li>Through this the user can be provided with useful information taht are related to workout and other fitness comodities.</li>
+</ul>
 
+<h4>Social Network</h4>
 
+![social](https://user-images.githubusercontent.com/112749480/194263104-d47c452f-3e36-4849-b5c3-804b3146bdfd.png)
+<ul>
+<li>The social section includes media icons so users can find Sparta on Facebook, Twitter and Istagram.</li>
+<li>The section also has the Youtube icon where they can watch videos about our gym and the facilities provided.</li>
+<li>The social media icons are visible throghout the site, where ever you scroll.</li>
+</ul>
 
+<h3>Testing</h3>
+<ul>
+<li>I tested that this page works on different browsers like Chrome, Firefox, Opera.</li>
+<li>I can confidently say that this project is responsive, has good visuals and functions on all standard screen sizes.</li>
+<li>The header, navigation, about us, contact and sign up sections are alll readable</li>
+<li>The sign up form works:First and Last name required, email address needs to be given on the email field, and the subscribe button works as well.</li>
+<li>The social media icons move the user to their respective pages. The social media icons remain at the bottom of the page wherever you are on the page, and it does not hinder the user for any reason.</li>
+</ul>
