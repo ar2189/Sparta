@@ -27,7 +27,22 @@ Users can find the information they need to learn about Sparta, the courses they
 </ul>
 
 
+<h4>About us</h4>
+![about](https://user-images.githubusercontent.com/112749480/194215924-8fa7f320-90c3-4994-b0d0-ec3a149eb9cc.png)
+<ul>
+<li>The about section gives information to the user what the site offers.</li>
+<li>It also shows images on the right side to make the site more compelling.</li>
+</ul>
 
+<h4>Contact</h4>
+![Screenshot 2022-10-03 21 03 09](https://user-images.githubusercontent.com/112749480/194216968-1a8cad82-8f5d-4c34-b41d-49fb7cf3f31c.png)
+<ul>
+<li>This section shows the user how to contact us by giving them different option.</li>
+<li>It also shows the timings of the the gym and the address</li>
+</ul>
+
+<h4>Sign up form</h4>
+![signup](https://user-images.githubusercontent.com/112749480/194217931-fd3a9465-a6a1-43c2-ae42-48ae423abb52.png)
 
 
 
