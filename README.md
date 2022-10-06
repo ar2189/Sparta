@@ -66,3 +66,18 @@ Users can find the information they need to learn about Sparta, the courses they
 <li>The sign up form works:First and Last name required, email address needs to be given on the email field, and the subscribe button works as well.</li>
 <li>The social media icons move the user to their respective pages. The social media icons remain at the bottom of the page wherever you are on the page, and it does not hinder the user for any reason.</li>
 </ul>
+
+<h3>Bugs</h3>
+<h4>Resolved Bugs</h4>
+<ul>
+<li>When I deployed the site on to GitHub Pages I discovered that some sections were not working.</li>
+<li>The contact and sign up link were not working like when I clicked on the links it showed the error site.</li>
+<li>I discovered that the # value was missing on the <strong>a href=""</strong> and the <strong>id=""</strong> value was missing from their section.</li>
+<li>After adding the necessary values the problem was resolved.</li>
+</ul>
+
+<h3>Validator Testing</h3>
+<ul>
+<li>I tested the HTML validator and it showed error on the social media icons. I tested the icons and they work as you can go to their sites<li>
+<li>
+</ul>
