@@ -18,7 +18,8 @@ Users can find the information they need to learn about Sparta, the courses they
 
 
 <h4>Image</h4>
-![Screenshot 2022-10-03 21 02 32](https://user-images.githubusercontent.com/112749480/194215579-1204ce48-088d-4f38-b1a8-d767d2c3709a.png)
+<img src="https://user-images.githubusercontent.com/112749480/194673680-17483257-fb37-4581-aabd-26bb7f05d3fc.png" alt="hero-image"/>![image](https://user-images.githubusercontent.com/112749480/194673808-398be640-4b5d-4581-84fd-8de06321e39f.png)
+
 <ul>
 <li>Beneath the navigation is an image that makes the site more attractable by having different features.</li>
 <li>The image starts to zoom once you enter the website or when you refresh the page. The zoom feature lasts for a duration of 6 seconds.</li>
@@ -28,21 +29,24 @@ Users can find the information they need to learn about Sparta, the courses they
 
 
 <h4>About us</h4>
-![about](https://user-images.githubusercontent.com/112749480/194215924-8fa7f320-90c3-4994-b0d0-ec3a149eb9cc.png)
+<img src="https://user-images.githubusercontent.com/112749480/194673834-30dd0888-3f16-4efc-9798-6862e8eaf408.png" alt="about"/>![image](https://user-images.githubusercontent.com/112749480/194673853-3c93a40f-e3f7-4722-99ff-12c5e915a655.png)
+
 <ul>
 <li>The about section gives information to the user what the site offers.</li>
 <li>It also shows images on the right side to make the site more compelling.</li>
 </ul>
 
 <h4>Contact</h4>
-![Screenshot 2022-10-03 21 03 09](https://user-images.githubusercontent.com/112749480/194216968-1a8cad82-8f5d-4c34-b41d-49fb7cf3f31c.png)
+<img src="https://user-images.githubusercontent.com/112749480/194673905-25b006b4-ba68-43ab-8faa-97a65d30b3d2.png" alt="contact"/>![image](https://user-images.githubusercontent.com/112749480/194673936-bdeb5fd7-b766-4152-b252-b013be717146.png)
+
 <ul>
 <li>This section shows the user how to contact us by giving them different option.</li>
 <li>It also shows the timings of the the gym and the address</li>
 </ul>
 
 <h4>Sign up form</h4>
-![signup](https://user-images.githubusercontent.com/112749480/194263413-6db464b3-459a-4832-be08-057ba50e4a78.png)
+<img src="https://user-images.githubusercontent.com/112749480/194673990-c8241d1e-a592-4669-ae64-f8356917942b.png" alt="signup"/>![image](https://user-images.githubusercontent.com/112749480/194674021-7c9502f5-047e-46bf-b4b8-a8f61565b19d.png)
+
 <ul>
 <li>The sign up section has a form to collect the user's information.</li>
 <li>The user can fill in his first and last name, and also his email address.</li>
