@@ -82,8 +82,9 @@ Users can find the information they need to learn about Sparta, the courses they
 
 <h3>Validator Testing</h3>
 <ul>
-<li>I tested the HTML validator and it showed error on the social media icons. I tested the icons and they work as you can go to their sites<li>
+<li>I tested the HTML validator and it showed error on the social media icons.I tested the icons and they work as you can go to their sites</li>
 <li>I tested the CSS validator and it gave me two errors. Resloved those errors.
+<li>I tried to validate the accessibility of the site via an accessibility site but it kept asking me for a work email, which I do not have.</li>
 
 
 </ul>
